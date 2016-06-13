@@ -25,7 +25,8 @@ class ViewController: UIViewController {
             Person(personImgURL: "person3.jpg"),
             Person(personImgURL: "person4.jpg"),
             Person(personImgURL: "person5.jpg"),
-            Person(personImgURL: "person6.png")
+            Person(personImgURL: "person6.png"),
+            Person(personImgURL: "person7.jpg")
     ]
     
     

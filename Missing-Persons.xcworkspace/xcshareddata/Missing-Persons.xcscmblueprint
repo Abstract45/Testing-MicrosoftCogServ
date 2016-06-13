@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C06D8C506CB2BBFB60D9E11FD498CB0AB792BDE7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9F4782F6C8319EF2DC7AB34E27C74828913E966F" : 0,
+    "C06D8C506CB2BBFB60D9E11FD498CB0AB792BDE7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "75CD720C-ACD7-49E8-BFF9-45B3406D23B8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9F4782F6C8319EF2DC7AB34E27C74828913E966F" : "",
+    "C06D8C506CB2BBFB60D9E11FD498CB0AB792BDE7" : "Missing-Persons\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Missing-Persons",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Missing-Persons.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/miwand\/30-Days-of-Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F4782F6C8319EF2DC7AB34E27C74828913E966F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/miwand\/Testing-MicrosoftCogServ.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C06D8C506CB2BBFB60D9E11FD498CB0AB792BDE7"
+    }
+  ]
+}
